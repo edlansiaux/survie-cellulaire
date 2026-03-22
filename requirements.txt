@@ -1,0 +1,7 @@
+numpy>=1.22
+scipy>=1.8
+scikit-image>=0.19
+tifffile>=2022.1
+pandas>=1.4
+matplotlib>=3.5
+cellpose-omni>=0.1
